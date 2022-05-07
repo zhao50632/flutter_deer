@@ -1,29 +1,12 @@
 # Flutter Deer
 
-<img src="preview/logo.jpg"/>
-
-## [English](README-EN.md) | 中文
-
 本项目为个人学习Flutter的练习项目。
 
 通过设置、修改、组合自带部件以及自定义来实现具体的设计效果，满足日常开发的需求。
 
 本项目设计图见design目录，你可以通过我提供的设计图有目标的去练习。所有的实现仅是个人的学习理解，如果有更好的实现方案欢迎交流。
 
-## 预览
 
-部分页面效果如下：
-
-| ![](./preview/Screenshot_1.png)    |  ![](./preview/Screenshot_2.png)    | ![](./preview/Screenshot_3.png)   |  ![](./preview/Screenshot_4.png)   |
-| :--------------------------------: | :---------------------------------: | :-------------------------------: | :-------------------------------:  |
-| ![](./preview/Screenshot_5.png)    |  ![](./preview/Screenshot_6.png)    | ![](./preview/Screenshot_7.png)   |  ![](./preview/Screenshot_8.png)   |
-| ![](./preview/Screenshot_9.png)    |  ![](./preview/Screenshot_10.png)   | ![](./preview/Screenshot_11.png)  |  ![](./preview/Screenshot_12.png)  |
-| ![](./preview/Screenshot_13.png)   |  ![](./preview/Screenshot_14.png)   | ![](./preview/Screenshot_15.png)  |  ![](./preview/Screenshot_17.png)  |
-| ![](./preview/Screenshot_18.png)   |  ![](./preview/Screenshot_19.png)   | ![](./preview/Screenshot_20.png)  |  ![](./preview/Screenshot_21.png)  |
-| ![](./preview/Screenshot_22.jpg)   |  ![](./preview/Screenshot_23.jpg)   | ![](./preview/Screenshot_24.jpg)  |  ![](./preview/Screenshot_25.jpg)  |
-| ![](./preview/Screenshot_26.jpg)   |  ![](./preview/Screenshot_27.jpg)   | ![](./preview/lottie.gif)         |  |
-
-**觉得还可以的话，来个Star、Fork支持一波！本项目持续维护中，有问题欢迎提Issue。**
 
 ## 实现内容（已迁移到空安全）
 
